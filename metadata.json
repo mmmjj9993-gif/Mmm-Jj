@@ -1,0 +1,8 @@
+{
+  "name": "Remix TFC hotel",
+  "description": "Comprehensive commercial hotel booking and management platform with customer reservations, real-time availability, digital food menu \u0026 ordering, and secure hotel owner management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
